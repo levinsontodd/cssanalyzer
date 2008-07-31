@@ -1,0 +1,852 @@
+.sfg_ysm001 h3 {
+margin: 0; padding: 0;
+}
+.sfg_ysm001 h4 {
+margin: 0; padding: 0;
+}
+.sfg_ysm001 p {
+margin: 0; padding: 0;
+}
+.sfg_ysm001 a:link {
+text-decoration: none; color: #006;
+}
+.sfg_ysm001 a:visited {
+text-decoration: none; color: #006;
+}
+.sfg_ysm001 a:hover {
+text-decoration: underline;
+}
+.sfg_ysm001 a:active {
+text-decoration: underline;
+}
+.sfg_ysm001 h3 a:link {
+color: #444;
+}
+.sfg_ysm001 h3 a:visited {
+color: #444;
+}
+.sfg_ysm001 h3 a:hover {
+color: #444;
+}
+.sfg_ysm001 h3 a:active {
+color: #444;
+}
+.sfg_ysm001 p a:link {
+color: #000;
+}
+.sfg_ysm001 p a:visited {
+color: #000;
+}
+.sfg_ysm001 p a:hover {
+color: #000;
+}
+.sfg_ysm001 p a:active {
+color: #000;
+}
+#ysm_ads_sky .sfg_ysm001 p.sitehost {
+overflow: hidden; width: 144px;
+}
+.sfg_ysm001 p.sitehost a:link {
+color: #999;
+}
+.sfg_ysm001 p.sitehost a:visited {
+color: #999;
+}
+.sfg_ysm001 p.sitehost a:hover {
+color: #999;
+}
+.sfg_ysm001 p.sitehost a:active {
+color: #999;
+}
+.sfg_ysm001 {
+padding-bottom: 5px; border: 1px solid #d6d6d6; font-family: Verdana, sans-serif;
+}
+.sfg_ysm001 .item {
+margin-bottom: 5px;
+}
+.sfg_ysm001 h3 {
+font-size: .86em; margin: 0 0 5px 0; border-bottom: 1px solid #e4e4e4; font-family: Arial, sans-serif; padding: 5px; color: #444;
+}
+.sfg_ysm001 h4 {
+font-size: .86em; margin: 0 5px;
+}
+.sfg_ysm001 p {
+font-size: .86em; margin: 0 5px; text-align: left;
+}
+#contentfooter #ysm_ads_bottom .contextualad .sfg_ysm001 .item p {
+font-size: .86em; margin: 0 5px; text-align: left;
+}
+#contentfooter #ysm_ads_bottom .contextualad .sfg_ysm001 .item_last p {
+font-size: .86em; margin: 0 5px; text-align: left;
+}
+.sfg_ysm001 p.sitehost {
+font-size: .78em; margin: 0 5px; color: #999;
+}
+#container .sfg_searchresults #google_container1 {
+font-size: 80%; padding-top: 10px;
+}
+#container .sfg_searchresults #ysm_ads_bottom {
+font-size: 80%; padding-top: 10px;
+}
+#container .sfg_searchresults #google_container2 {
+font-size: 110%; padding-top: 5px;
+}
+#container .sfg_searchresults #ysm_ads_sky {
+font-size: 110%; padding-top: 5px;
+}
+#sfg_rentals .contextualad {
+font-size: 80%;
+}
+#container .sfg_home .contextualad {
+font-size: 80%;
+}
+#container table.article .sfg_ysm001 {
+margin: 10px 0;
+}
+#universalpagetable .contextualad {
+font-size: 80%; margin-top: 10px;
+}
+#contentfooter #ysm_ads_bottom .contextualad {
+font-size: 80%; margin-bottom: 10px; margin-top: 10px;
+}
+#ysm_ads_bottom .contextualad {
+font-size: 80%; margin-bottom: 10px; margin-top: 10px;
+}
+body {
+font-size: 80%; background: #fff; margin: 0; padding: 0;
+}
+#page {
+background: #fff; margin: 0 auto; border-right: 1px solid #999; border-left: 1px solid #999; width: 968px;
+}
+#headernav {
+width: 968px;
+}
+#headernav a:link {
+text-decoration: none; color: #015660;
+}
+#headernav a:visited {
+text-decoration: none; color: #015660;
+}
+#footernav a:link {
+text-decoration: none; color: #015660;
+}
+#footernav a:visited {
+text-decoration: none; color: #015660;
+}
+#sitecopyright a:link {
+text-decoration: none; color: #015660;
+}
+#sitecopyright a:visited {
+text-decoration: none; color: #015660;
+}
+#channelnav a:link {
+text-decoration: none; color: #015660;
+}
+#channelnav a:visited {
+text-decoration: none; color: #015660;
+}
+#headernav a:hover {
+text-decoration: underline;
+}
+#headernav a:active {
+text-decoration: underline;
+}
+#footernav a:hover {
+text-decoration: underline;
+}
+#footernav a:active {
+text-decoration: underline;
+}
+#sitecopyright a:hover {
+text-decoration: underline;
+}
+#sitecopyright a:active {
+text-decoration: underline;
+}
+#channelnav a:hover {
+text-decoration: underline;
+}
+#channelnav a:active {
+text-decoration: underline;
+}
+#headernav .pipe {
+color: #666;
+}
+#headernav ul.media {
+font-size: .78em; margin: 0; font-family: Verdana, sans-serif; padding: 0; text-align: right; float: right;
+}
+#headernav ul.media li {
+list-style: none; margin: 0; background: url('http://imgs.sfgate.com/graphics/sitenav/media_tile2.gif'); padding: 2px 5px 2px 42px; display: block; float: left;
+}
+#headernav ul.media li.first {
+background: url('http://imgs.sfgate.com/graphics/sitenav/media_tile1.gif');
+}
+#headernav ul.media li.last {
+padding-right: 10px;
+}
+#headernav ul.media a {
+text-transform: uppercase;
+}
+#headernav div.midsection {
+clear: both;
+}
+#headernav div.ad {
+margin: 2px 10px 0 0; padding: 0; display: inline; float: right;
+}
+#headernav div.ad img {
+border: 0;
+}
+#headernav h1 {
+margin: 0; display: inline; float: left;
+}
+#headernav h1 a {
+font-size: .71em; overflow: hidden; text-indent: -1024px; display: block; float: left;
+}
+#headernav p.paper {
+font-size: .71em; margin: 0; text-transform: lowercase; font-family: Verdana, sans-serif; display: inline; float: left;
+}
+#headernav p.paper  span.chronhome {
+color: #555; float: left;
+}
+#headernav p.paper  a.chronbrand {
+overflow: hidden; text-indent: -1024px; display: block; float: right;
+}
+#headernav p.papertools {
+font-size: .71em; margin: 0; font-family: Verdana, sans-serif; display: inline; color: #666; float: left;
+}
+div.headernav_tile {
+padding-top: 8px; background: url('http://imgs.sfgate.com/graphics/sitenav/tile_gradient_skyline.jpg') no-repeat;
+}
+div.headernav_tile div.midsection {
+height: 76px;
+}
+div.headernav_tile div.ad {
+height: 60px; text-align: right; width: 234px;
+}
+div.headernav_tile h1 {
+padding: 26px 0 0 10px;
+}
+div.headernav_tile h1 a {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_sfgate192x37.gif') no-repeat; height: 37px; width: 192px;
+}
+div.headernav_tile p.paper {
+padding: 25px 0 0 131px; width: 240px;
+}
+div.headernav_tile p.paper span.chronhome {
+padding-top: 6px;
+}
+div.headernav_tile p.paper a.chronbrand {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_chronicle178x21.gif') no-repeat; height: 21px; width: 178px;
+}
+div.headernav_tile p.papertools {
+padding: 2px 0 0 194px;
+}
+div.headernav_leaderboard {
+background: url('http://imgs.sfgate.com/graphics/sitenav/tile_gradient_leaderboard.gif') repeat-x; padding-top: 6px;
+}
+div.headernav_leaderboard div.midsection {
+height: 106px;
+}
+div.headernav_leaderboard div.ad {
+background: transparent url('http://imgs.sfgate.com/graphics/sitenav/ads_label.gif') left bottom no-repeat; height: 90px; text-align: right; width: 736px;
+}
+div.headernav_leaderboard h1 {
+padding: 2px 0 0 10px;
+}
+div.headernav_leaderboard h1 a {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_sfgate154x30.gif') no-repeat; height: 30px; width: 154px;
+}
+div.headernav_leaderboard p.paper {
+padding: 0 0 0 10px; width: 159px;
+}
+div.headernav_leaderboard p.paper span.chronhome {
+padding-bottom: 4px; padding-top: 9px;
+}
+div.headernav_leaderboard p.paper a.chronbrand {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_chronicle159x18.gif') no-repeat; height: 18px; width: 159px;
+}
+div.headernav_leaderboard p.papertools {
+clear: left; padding: 2px 0 0 10px; width: 190px;
+}
+div.headernav_noads {
+background: url('http://imgs.sfgate.com/graphics/sitenav/tile_gradient_noads.gif') repeat-x; padding-top: 6px;
+}
+div.headernav_noads div.midsection {
+height: 45px;
+}
+div.headernav_noads h1 {
+padding: 2px 0 0 10px;
+}
+div.headernav_noads h1 a {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_sfgate154x30.gif') no-repeat; height: 30px; width: 154px;
+}
+div.headernav_noads p.paper {
+padding: 11px 0 0 14px; width: 222px;
+}
+div.headernav_noads p.paper span.chronhome {
+padding-top: 4px;
+}
+div.headernav_noads p.paper a.chronbrand {
+background: url('http://imgs.sfgate.com/graphics/sitenav/brand_chronicle159x18.gif') no-repeat; height: 18px; width: 159px;
+}
+div.headernav_noads p.papertools {
+padding: 15px 0 0 9px; width: 230px;
+}
+#headernav p.user_tools {
+font-size: .78em; margin: 0; font-family: Verdana, sans-serif; padding: 3px 10px 0 0; display: inline; float: right;
+}
+#headernav form.searchbar {
+clear: left; margin: 0; padding: 0 0 0 10px;
+}
+* html #headernav form.searchbar {
+margin-top: -1px;
+}
+#headernav form.searchbar input {
+margin-right: 5px;
+}
+#headernav form.searchbar label {
+font-weight: bold;
+}
+#headernav form.searchbar input.submit {
+font-size: .78em; font-family: Verdana, sans-serif;
+}
+#headernav form.searchbar label {
+font-size: .78em; font-family: Verdana, sans-serif;
+}
+#headernav form.searchbar img {
+font-size: .78em; font-family: Verdana, sans-serif;
+}
+#headernav form.searchbar a {
+font-size: .78em; font-family: Verdana, sans-serif;
+}
+#headernav form.searchbar input.radio {
+font-size: 1.02em; font-family: Verdana, sans-serif;
+}
+#headernav form.searchbar input.text {
+vertical-align: middle;
+}
+#headernav form.searchbar input.submit {
+vertical-align: middle;
+}
+#headernav form.searchbar input.radio {
+vertical-align: middle;
+}
+#headernav form.searchbar label {
+vertical-align: middle;
+}
+#headernav form.searchbar img {
+vertical-align: middle;
+}
+#headernav form.searchbar a {
+vertical-align: middle;
+}
+#headernav form.searchbar span {
+vertical-align: middle;
+}
+#headernav form.searchbar input.text {
+font-size: .86em; border: 1px solid #999; font-family: Verdana, sans-serif; padding: 1px 0 2px 4px; height: 14px; width: 193px;
+}
+#headernav form.searchbar a.pipe {
+padding: 0 5px;
+}
+#headernav form.searchbar em {
+font-weight: normal; font-style: normal;
+}
+#headernav form.searchbar b.yahoo {
+font-size: .91em; color: #f03;
+}
+#headernav ul.main {
+clear: both; margin: 3px 0 2px 0; padding: 0; height: 30px; position: relative; width: 968px;
+}
+#headernav ul.main li.main {
+list-style: none; margin: 0; padding: 0; height: 30px; position: absolute; top: 0;
+}
+#headernav ul.main li.index {
+list-style: none; margin: 0; padding: 0; height: 30px; position: absolute; top: 0;
+}
+#headernav ul.main li.main  a {
+overflow: hidden; text-indent: -1024px; display: block; height: 30px;
+}
+#headernav ul.main li.index a.item {
+overflow: hidden; text-indent: -1024px; display: block; height: 30px;
+}
+#headernav ul.main li.home_selected {
+left: 10px; width: 50px;
+}
+#headernav ul.main li.home {
+left: 10px; width: 50px;
+}
+#headernav ul.main li.news_selected {
+left: 80px; width: 39px;
+}
+#headernav ul.main li.news {
+left: 80px; width: 39px;
+}
+#headernav ul.main li.sports_selected {
+left: 139px; width: 45px;
+}
+#headernav ul.main li.sports {
+left: 139px; width: 45px;
+}
+#headernav ul.main li.business_selected {
+left: 198px; width: 57px;
+}
+#headernav ul.main li.business {
+left: 198px; width: 57px;
+}
+#headernav ul.main li.entertainment_selected {
+left: 270px; width: 92px;
+}
+#headernav ul.main li.entertainment {
+left: 270px; width: 92px;
+}
+#headernav ul.main li.food_selected {
+left: 381px; width: 36px;
+}
+#headernav ul.main li.food {
+left: 381px; width: 36px;
+}
+#headernav ul.main li.living_selected {
+left: 434px; width: 42px;
+}
+#headernav ul.main li.living {
+left: 434px; width: 42px;
+}
+#headernav ul.main li.travel_selected {
+left: 492px; width: 43px;
+}
+#headernav ul.main li.travel {
+left: 492px; width: 43px;
+}
+#headernav ul.main li.blogs_selected {
+left: 554px; width: 49px;
+}
+#headernav ul.main li.blogs {
+left: 554px; width: 49px;
+}
+#headernav ul.main li.columns_selected {
+left: 554px; width: 49px;
+}
+#headernav ul.main li.columns {
+left: 554px; width: 49px;
+}
+#headernav ul.main li.classifieds {
+left: 633px; width: 68px;
+}
+#headernav ul.main li.jobs {
+left: 721px; width: 34px;
+}
+#headernav ul.main li.homes {
+left: 775px; width: 46px;
+}
+#headernav ul.main li.cars {
+left: 841px; width: 32px;
+}
+#headernav ul.main li.index {
+left: 884px; width: 84px;
+}
+#headernav ul.main li.home          a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif')  -10px -30px no-repeat;
+}
+#headernav ul.main li.news          a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif')  -80px -30px no-repeat;
+}
+#headernav ul.main li.sports        a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -139px -30px no-repeat;
+}
+#headernav ul.main li.business      a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -198px -30px no-repeat;
+}
+#headernav ul.main li.entertainment a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -270px -30px no-repeat;
+}
+#headernav ul.main li.food          a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -381px -30px no-repeat;
+}
+#headernav ul.main li.living        a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -434px -30px no-repeat;
+}
+#headernav ul.main li.travel        a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -492px -30px no-repeat;
+}
+#headernav ul.main li.blogs         a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -554px -30px no-repeat;
+}
+#headernav ul.main li.classifieds   a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -633px -30px no-repeat;
+}
+#headernav ul.main li.jobs          a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -721px -30px no-repeat;
+}
+#headernav ul.main li.homes         a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -775px -30px no-repeat;
+}
+#headernav ul.main li.cars          a:hover {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif') -841px -30px no-repeat;
+}
+#headernav ul.none {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_none.gif');
+}
+#headernav ul.home {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_home.gif');
+}
+#headernav ul.news {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_news.gif');
+}
+#headernav ul.sports {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_sports.gif');
+}
+#headernav ul.business {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_business.gif');
+}
+#headernav ul.entertainment {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_entertainment.gif');
+}
+#headernav ul.food {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_food.gif');
+}
+#headernav ul.living {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_living.gif');
+}
+#headernav ul.travel {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_travel.gif');
+}
+#headernav ul.blogs {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_columns.gif');
+}
+#headernav ul.columns {
+background: url('http://imgs.sfgate.com/graphics/homev2/sitenav/main_columns.gif');
+}
+#headernav .index .popupkit {
+position: relative;
+}
+#headernav .index #popup {
+display: none; position: absolute;
+}
+#headernav .index #popmask {
+display: none; position: absolute;
+}
+#headernav .index #popup {
+z-index: 31000; margin-left: -470px; width: 554px;
+}
+#headernav .index #popmask {
+margin: -74px 0 0 -570px; height: 600px; width: 672px;
+}
+#headernav .index .tab {
+display: inline; width: 84px; float: right;
+}
+#headernav .index .tab  a {
+background: url('http://imgs.sfgate.com/graphics/sitenav/index_tab84x26.gif') no-repeat; display: block; height: 26px;
+}
+#headernav .index .tabmask {
+display: inline; height: 26px; width: 470px; float: left;
+}
+#headernav .index .content {
+clear: both; width: 554px;
+}
+#headernav .index .content h3 {
+font-family: Verdana, sans-serif;
+}
+#headernav .index .content h4 {
+font-family: Verdana, sans-serif;
+}
+#headernav .index .content div.title {
+font-family: Verdana, sans-serif;
+}
+#headernav .index .content li {
+font-family: Verdana, sans-serif;
+}
+#headernav .index .content span.pipe {
+padding: 0 5px;
+}
+#headernav .index .content div.title {
+font-size: .78em; background: url('http://imgs.sfgate.com/graphics/sitenav/index_header554x28.gif') no-repeat; padding: 8px 0 0 12px; color: #c5dede; height: 20px; width: 542px;
+}
+#headernav .index .content div.title a {
+font-weight: bold; color: #fff;
+}
+#headernav .index .content .columns {
+background: #ecf6f7; border-bottom: 2px solid #222; border-right: 2px solid #222; padding: 8px 0 11px 11px; border-left: 2px solid #222;
+}
+#headernav .index .content .column1 {
+display: inline; float: left;
+}
+#headernav .index .content .column2 {
+display: inline; float: left;
+}
+#headernav .index .content .column3 {
+display: inline; float: left;
+}
+#headernav .index .content .column4 {
+display: inline; float: left;
+}
+#headernav .index .content .column1 {
+width: 137px;
+}
+#headernav .index .content .column2 {
+padding-top: 11px; width: 126px;
+}
+#headernav .index .content .column3 {
+background: transparent url('http://imgs.sfgate.com/graphics/sitenav/rule_dotted_vert.gif') left top repeat-y; padding-left: 12px; width: 139px;
+}
+#headernav .index .content .column4 {
+padding-top: 11px; width: 124px;
+}
+* html #headernav .index .content .column2 {
+padding-top: 25px;
+}
+* html #headernav .index .content .column4 {
+padding-top: 25px;
+}
+*:first-child+html #headernav .index .content .column2 {
+padding-top: 25px;
+}
+*:first-child+html #headernav .index .content .column4 {
+padding-top: 25px;
+}
+#headernav .index .content h3 {
+font-size: 1.02em; margin: 0 0 -5px 0; text-transform: uppercase; padding: 0; color: #222;
+}
+#headernav .index .content h4 {
+font-size: .86em; margin: 14px 0 5px 0; text-transform: uppercase; padding: 0; color: #222;
+}
+#headernav .index .mute a:link {
+text-decoration: none; color: #222;
+}
+#headernav .index .mute a:visited {
+text-decoration: none; color: #222;
+}
+#headernav .index .mute a:hover {
+text-decoration: none; color: #222;
+}
+#headernav .index .mute a:active {
+text-decoration: none; color: #222;
+}
+#headernav .index .content ul {
+list-style: none; margin: 0; padding: 0;
+}
+#headernav .index .content li {
+font-size: .86em; margin: 0; line-height: 15px; padding: 0;
+}
+#headernav p.dontmiss {
+margin: 2px 0 0; padding: 0; display: inline; float: left;
+}
+#headernav ul.sub {
+list-style: none; background: url('http://imgs.sfgate.com/graphics/sitenav/rule_dotted_horiz.gif') left bottom repeat-x; margin: 0 0 0 10px; padding: 0; height: 22px; width: 948px;
+}
+#headernav ul.sub li {
+font-size: .86em; background: url('http://imgs.sfgate.com/graphics/sitenav/sub_pipe_bullet.gif') 0 2px no-repeat; margin: 0 0 0 7px; font-family: Verdana, sans-serif; padding: 0 0 0 7px; display: inline; float: left;
+}
+#headernav ul.sub li.first {
+background: #fff; padding-left: 0; margin-left: 0;
+}
+#headernav ul.sub li.note {
+background: none; float: right;
+}
+#headernav ul.sub strong {
+text-decoration: none; color: #000;
+}
+#headernav ul.sub strong a:link {
+text-decoration: none; color: #000;
+}
+#headernav ul.sub strong a:visited {
+text-decoration: none; color: #000;
+}
+#headernav ul.sub strong a:hover {
+text-decoration: none; color: #000;
+}
+#headernav ul.sub strong a:active {
+text-decoration: none; color: #000;
+}
+#headernav ul.sub img.label {
+margin: 0 8px -2px 0;
+}
+#headernav div.billboard {
+margin: 0; padding: 10px 0 10px 10px; height: 90px; text-align: center;
+}
+#headernav div.billboard img {
+border: 0;
+}
+#page div.contentbody {
+clear: left;
+}
+#footernav {
+clear: both; margin: 0; padding: 6px 0 0 0; border-top: 1px solid #999; width: 968px;
+}
+#footernav h3 {
+font-size: .78em; margin: 0; font-family: Verdana, sans-serif; padding: 0;
+}
+#footernav ul {
+font-size: .78em; margin: 0; font-family: Verdana, sans-serif; padding: 0;
+}
+#footernav p {
+font-size: .78em; margin: 0; font-family: Verdana, sans-serif; padding: 0;
+}
+#footernav h3 {
+clear: left; display: inline;
+}
+#footernav ul {
+list-style: none; display: inline;
+}
+#footernav ul.main {
+padding-left: 5px;
+}
+#footernav li {
+background: url('http://imgs.sfgate.com/graphics/sitenav/footer_pipe_bullet.gif') 0 1px no-repeat; margin: 0; padding: 0 5px 0 9px; display: inline; height: 8px;
+}
+#footernav li.first {
+background: none; padding: 0 5px;
+}
+#footernav p {
+margin: 0; padding: 0;
+}
+#footernav p.anchortop {
+margin-right: 8px; text-transform: lowercase; text-align: right; float: right; width: 10%;
+}
+#footernav div.sub {
+clear: both; background: #eee; margin: 7px 0 0 0; border-bottom: 1px solid #999; padding: 8px 0 3px 10px; border-top: 1px solid #999;
+}
+#footernav div.sub div {
+margin-bottom: 5px;
+}
+#sitecopyright {
+font-size: .78em; margin: 7px auto 20px auto; padding: 0; font-family: Verdana, sans-serif; text-align: center; width: 970px;
+}
+#sitecopyright img {
+margin: 7px;
+}
+.clear {
+clear: both;
+}
+.clearfix:after {
+visibility: hidden; clear: both; line-height: 0; display: block; height: 0; content: ".";
+}
+.clearfix {
+display: inline-block;
+}
+html[xmlns] .clearfix {
+display: block;
+}
+* html      .clearfix {
+height: 1%;
+}
+#retrofit1 {
+margin: 0; padding: 0; float: none;
+}
+#retrofit2 {
+margin: 0; padding: 0; float: none;
+}
+td.retrofit {
+margin: 0; padding: 0; float: none;
+}
+body {
+font-size: 80%; margin: 0; padding: 0;
+}
+.clearfix {
+display: inline-block;
+}
+html[xmlns] .clearfix {
+display: block;
+}
+* html      .clearfix {
+height: 1%;
+}
+.clearfix:after {
+visibility: hidden; clear: both; display: block; height: 0; content: ".";
+}
+.curvebox .mint {
+background: #ecf6f7     url('http://imgs.sfgate.com/graphics/utils/curvebox_mint1.gif') left  top    no-repeat;
+}
+.curvebox .mint .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint2.gif') right top    no-repeat;
+}
+.curvebox .mint .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint3.gif') right bottom no-repeat;
+}
+.curvebox .mint .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint4.gif') left  bottom no-repeat;
+}
+.curvebox .mintedge {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge1.gif') left  top    no-repeat;
+}
+.curvebox .mintedge .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge2.gif') right top    no-repeat;
+}
+.curvebox .mintedge .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge3.gif') right bottom no-repeat;
+}
+.curvebox .mintedge .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge4.gif') left  bottom no-repeat;
+}
+.curvebox .gray {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_gray1.gif') left  top    no-repeat;
+}
+.curvebox .gray .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray2.gif') right top    no-repeat;
+}
+.curvebox .gray .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray3.gif') right bottom no-repeat;
+}
+.curvebox .gray .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray4.gif') left  bottom no-repeat;
+}
+.curvebox .grayedge {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge1.gif') left  top    no-repeat;
+}
+.curvebox .grayedge .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge2.gif') right top    no-repeat;
+}
+.curvebox .grayedge .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge3.gif') right bottom no-repeat;
+}
+.curvebox .grayedge .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge4.gif') left  bottom no-repeat;
+}
+.curvebox_mint {
+background: #ecf6f7     url('http://imgs.sfgate.com/graphics/utils/curvebox_mint1.gif') left  top    no-repeat;
+}
+.curvebox_mint     .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint2.gif') right top    no-repeat;
+}
+.curvebox_mint     .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint3.gif') right bottom no-repeat;
+}
+.curvebox_mint     .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mint4.gif') left  bottom no-repeat;
+}
+.curvebox_mintedge {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge1.gif') left  top    no-repeat;
+}
+.curvebox_mintedge .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge2.gif') right top    no-repeat;
+}
+.curvebox_mintedge .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge3.gif') right bottom no-repeat;
+}
+.curvebox_mintedge .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_mintedge4.gif') left  bottom no-repeat;
+}
+.curvebox_gray {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_gray1.gif') left  top    no-repeat;
+}
+.curvebox_gray     .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray2.gif') right top    no-repeat;
+}
+.curvebox_gray     .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray3.gif') right bottom no-repeat;
+}
+.curvebox_gray     .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_gray4.gif') left  bottom no-repeat;
+}
+.curvebox_grayedge {
+background: #fff        url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge1.gif') left  top    no-repeat;
+}
+.curvebox_grayedge .corner2 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge2.gif') right top    no-repeat;
+}
+.curvebox_grayedge .corner3 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge3.gif') right bottom no-repeat;
+}
+.curvebox_grayedge .corner4 {
+background: transparent url('http://imgs.sfgate.com/graphics/utils/curvebox_grayedge4.gif') left  bottom no-repeat;
+}
