@@ -1,0 +1,192 @@
+body {
+background: #fff url('http://www.mozilla.org/images/body_back.gif') repeat-x;
+}
+#header {
+background: #455372 url('http://www.mozilla.org/images/header_bl.png') bottom left repeat-x; padding: 15px 0; min-height: 39px; height: 3em; voice-family: inherit; position: relative;
+}
+#header h1 {
+left: 0; font-size: 2px; background: url('http://www.mozilla.org/images/header_tl.gif') no-repeat; margin: 0; height: 8px; z-index: 100; position: absolute; top: 0;
+}
+#header h1 a {
+background: transparent url('http://www.mozilla.org/images/header_logo.gif') no-repeat; text-decoration: none; text-indent: -700em; display: block; height: 64px; width: 268px;
+}
+#header ul {
+bottom: 0; list-style: none; background: url('http://www.mozilla.org/images/header_br.gif') no-repeat bottom right; margin: 0; padding: 0 15px 0 0; z-index: 90; position: absolute; right: 0; width: auto;
+}
+#header li {
+margin: 0 1px 0 0; background: transparent url('http://www.mozilla.org/images/header_tab.gif') 100% -600px no-repeat; border-bottom: 1px solid #515358; padding: 0 6px 0 0; float: right;
+}
+#header ul a {
+font-weight: bold; background: transparent url('http://www.mozilla.org/images/header_tab.gif') 0% -600px no-repeat; text-decoration: none; padding: 4px 4px 4px 10px; display: block; color: #fff; float: left;
+}
+#header ul li:hover a {
+background-position: 0% -400px;
+}
+#header ul li:hover {
+background-position: 100% -400px;
+}
+body.sectionAbout li#menu_aboutus a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionFoundation li#menu_foundation a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionContribute li#menu_contribute a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionDevelopers li#menu_developers a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionCommunity li#menu_community a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionProjects li#menu_projects a {
+background-position: 0% -200px; color: #039;
+}
+body.sectionAbout li#menu_aboutus {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionFoundation li#menu_foundation {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionContribute li#menu_contribute {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionDevelopers li#menu_developers {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionCommunity li#menu_community {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionProjects li#menu_projects {
+background-position: 100% -200px; border-bottom: 1px solid #fff;
+}
+body.sectionAbout li#menu_aboutus:hover {
+background-position: 100% 0%;
+}
+body.sectionFoundation li#menu_foundation:hover {
+background-position: 100% 0%;
+}
+body.sectionContribute li#menu_contribute:hover {
+background-position: 100% 0%;
+}
+body.sectionDevelopers li#menu_developers:hover {
+background-position: 100% 0%;
+}
+body.sectionCommunity li#menu_community:hover {
+background-position: 100% 0%;
+}
+body.sectionProjects li#menu_projects:hover {
+background-position: 100% 0%;
+}
+body.sectionAbout li#menu_aboutus:hover a {
+background-position: 0% 0%; color: #333;
+}
+body.sectionFoundation li#menu_foundation:hover a {
+background-position: 0% 0%; color: #333;
+}
+body.sectionContribute li#menu_contribute:hover a {
+background-position: 0% 0%; color: #333;
+}
+body.sectionDevelopers li#menu_developers:hover a {
+background-position: 0% 0%; color: #333;
+}
+body.sectionCommunity li#menu_community:hover a {
+background-position: 0% 0%; color: #333;
+}
+body.sectionProjects li#menu_projects:hover a {
+background-position: 0% 0%; color: #333;
+}
+#header form {
+margin: 0; background: url('http://www.mozilla.org/images/header_tr.gif') no-repeat top right; white-space: nowrap; padding: 12px 20px 0 0; text-align: right; position: absolute; right: 0; top: 0;
+}
+#header form label {
+font-size: 85%; color: #fff;
+}
+#header form input {
+font-size: 85%;
+}
+#header form #submit {
+font-size: 85%; background: #6A7389; border-bottom: 1px solid #283043; border-right: 1px solid #283043; padding: 1px 4px; color: #fff; border-left: 1px solid #9097A2; border-top: 1px solid #9097A2;
+}
+#header form #q {
+font-size: 85%; background: #D9DBE1; border: 1px solid #9097A2; padding: 2px; width: 170px;
+}
+#header form #q:hover {
+background: #fff;
+}
+#header form #q:focus {
+background: #fff;
+}
+#nav:before {
+font-size: 1px; margin: 0; background: transparent url('http://www.mozilla.org/images/menu_tr.gif') no-repeat top right; line-height: 0.1; border-bottom: 1px solid #ddd; display: block; content: url('http://www.mozilla.org/images/key-point_tl.gif'); height: 9px;
+}
+#nav {
+background: #E0E9E9 url('http://www.mozilla.org/images/menu_back.gif') right repeat-y;
+}
+#nav:after {
+font-size: 1px; background: transparent url('http://www.mozilla.org/images/menu_br.gif') scroll no-repeat bottom right; margin: 0 0 0 0; padding-top: 0; line-height: 0.1; display: block; height: 8px; content: url('http://www.mozilla.org/images/key-point_bl.gif'); border-top: 1px solid #fff;
+}
+#nav {
+list-style: none; margin: 0; padding: 0;
+}
+#nav ul {
+list-style: none; margin: 0; padding: 0;
+}
+#nav {
+margin-bottom: 1em;
+}
+#nav li {
+margin: 0; padding: 0; display: inline;
+}
+#nav li span {
+font-weight: bold; padding: 6px 10px; display: block; color: #666;
+}
+#nav li span#configParent {
+font-weight: normal; padding: 0; display: inline;
+}
+#nav li span #configuration {
+font-weight: normal; padding: 0; display: inline;
+}
+#nav li a {
+background: #EDF2F2; border-right: 1px solid #ddd; border-bottom: 1px solid #ddd; text-decoration: none; padding: 8px 10px; display: block; border-top: 1px solid #fff;
+}
+#nav li a:hover {
+background: #E0E9E9;
+}
+#nav li li span {
+padding: 4px 8px 4px 20px;
+}
+#nav li li a {
+padding: 6px 8px 6px 20px;
+}
+#oN {
+background-color: #E0E9E9;
+}
+#oN:hover {
+background-color: #C6DCDC;
+}
+#footer {
+margin: 2em 0; padding: 1em 0; text-align: center; border-top: 1px solid #999;
+}
+#footer ul {
+list-style: none; margin: 0; padding: 0;
+}
+#footer li {
+display: inline;
+}
+#footer a {
+white-space: nowrap;
+}
+#footer p {
+color: #666;
+}
+#footer p a {
+color: #666;
+}
+#footer p a:hover {
+color: #000;
+}
+#footer p span {
+padding-right: 1em;
+}
