@@ -1,0 +1,327 @@
+body {
+background: white;
+}
+fieldset {
+background: #eee;
+}
+legend {
+font-weight: bold; font-size: small; font-family: sans-serif;
+}
+label {
+font-size: small; cursor: pointer;
+}
+form {
+margin: 0;
+}
+em {
+font-weight: bold; color: red; font-style: normal;
+}
+sup {
+font-size: x-small;
+}
+.sectionhead {
+font-weight: bold; background: #ddd; border: 1px solid; padding: 4px; font-family: serif;
+}
+.highlight {
+background: #ffc; font-family: sans-serif; padding: 4px;
+}
+.greytext {
+font-weight: normal; font-size: x-small; font-family: serif; color: #777;
+}
+.clfooter {
+font-size: small; text-align: center;
+}
+td.head {
+background: #eee; border: 1px solid #ccc; white-space: nowrap; text-align: right;
+}
+.bchead {
+background: #eee; border-bottom: 2px #ccc solid; padding: 3px; font-family: sans-serif;
+}
+.dropshadow {
+margin-right: 5px; background: gray; margin-bottom: 10px; float: left;
+}
+.dropshadow img {
+border: 1px #333 solid; display: block; position: relative; right: 5px; top: -5px;
+}
+.header {
+font-weight: bold; background: #ddd;
+}
+td.p {
+font-size: small; font-family: courier,monospace; width: 50%;
+}
+td.p pre {
+font-size: medium;
+}
+p {
+clear: both;
+}
+body.hp {
+background: #f4f4f4;
+}
+.hp td {
+white-space: nowrap;
+}
+a {
+white-space: nowrap;
+}
+th {
+white-space: nowrap;
+}
+.hp a {
+text-decoration: none;
+}
+.hp a:hover {
+text-decoration: underline; color: purple;
+}
+td {
+vertical-align: top;
+}
+.w2 td {
+font-size: smaller; font-family: sans-serif; padding: 1px; vertical-align: top; width: 100%;
+}
+.w2 td a {
+background: #fff; margin-bottom: 2px; display: block; padding: 1px;
+}
+#xjl {
+background: white; position: relative; top: -1.2em;
+}
+.www td {
+font-size: 82%; font-family: sans-serif; vertical-align: top;
+}
+.www td a {
+margin-right: 2px; background: #fff; margin-bottom: 6px; display: block; padding: 2px 2px 2px 5px; margin-left: 2px;
+}
+.www b {
+margin-right: 3px; font-weight: 200; font-size: 125%; background: #ddd; margin-bottom: 10px; margin-top: 9px; padding: 2px; display: block; font-family: sans-serif; text-align: center; margin-left: 3px;
+}
+.www l {
+margin-right: 3px; font-weight: 200; font-size: 190%; margin-bottom: 10px; margin-top: 5px; padding: 2px; display: block; font-family: serif; color: purple; text-align: center; margin-left: 3px;
+}
+.wwl td a {
+font-size: 135%; background: #f4f4f4; margin-bottom: 20px; font-family: sans-serif; padding: 1px 1px 1px 12px; vertical-align: top; text-align: center;
+}
+.city td {
+font-size: 70%; line-height: 1.43em; font-family: sans-serif; padding: 5px; vertical-align: top;
+}
+.city b {
+font-weight: 300; font-size: 85%; background: #ddd; padding: 1px; font-family: sans-serif;
+}
+.for {
+font-size: 72%; font-family: sans-serif;
+}
+.for a {
+background: #fff; margin: 1.0px; padding: 1.0px;
+}
+#forums td a {
+margin-right: 1px; margin-bottom: 2px; display: block; margin-left: 1px;
+}
+.ban {
+font-weight: 600; font-size: 85%; background: #ddd; font-family: sans-serif; text-align: center;
+}
+#logo {
+font-weight: 500; font-size: 190%; background: #f4f4f4; font-family: serif; padding: 2px 0px 16px 3px; font-stretch: expanded; width: 100%;
+}
+#leftbar {
+background: #ddd; font-family: sans-serif; text-align: center;
+}
+#leftbar * {
+margin-right: auto; white-space: nowrap; margin-left: auto;
+}
+.cal {
+font-size: smaller; width: 80%;
+}
+.cal th.ban {
+background: #eee;
+}
+.cal .dys th {
+font-weight: bold; background: #aaa; color: white; text-align: center;
+}
+.cal td {
+background: white; padding: 3px; text-align: center; width: 13%;
+}
+.cal .tdy {
+font-weight: bold; background: yellow;
+}
+#leftbar ul {
+list-style: none; padding: 4px;
+}
+#leftbar li {
+font-size: smaller; background: #f4f4f4; font-family: sans-serif; padding: 2px;
+}
+#leftlinks li {
+margin: 4px auto;
+}
+#postlks li {
+font-weight: 500; font-size: 90%; margin: 10px auto;
+}
+#search {
+margin: 10px;
+}
+#search div {
+background: #ff9; color: purple; text-align: center;
+}
+#search #query {
+width: 95%;
+}
+#search select {
+width: 83%;
+}
+#search #go {
+width: 15%;
+}
+#topban {
+height: 3em;
+}
+#topban div {
+background: #ddd; padding: 3px;
+}
+#topban h2 {
+font-weight: 500; display: inline;
+}
+#alks {
+font-size: smaller;
+}
+.toc h4 {
+background: #eee; border-bottom: 2px solid #ccc; padding: 6px 25px; width: 90%;
+}
+.toc .sh {
+background: #eee; border-bottom: 2px solid #ccc; padding: 6px 25px; width: 90%;
+}
+.toc td {
+white-space: nowrap;
+}
+a {
+white-space: nowrap;
+}
+th {
+white-space: nowrap;
+}
+.hl {
+white-space: nowrap;
+}
+.toc #messages {
+white-space: normal; text-align: right;
+}
+.toc dd {
+font-size: smaller;
+}
+dt {
+font-size: smaller;
+}
+.toc #ef a {
+font-weight: bold;
+}
+.toc #satabs {
+font-size: smaller; margin-top: 10px;
+}
+.toc #satabs b {
+padding-bottom: 5px; background: white; border-right: 2px #ccc solid; padding: 3px; -moz-border-radius: 0.7em 0.7em 0 0; border-left: 2px #ccc solid; border-top: 2px #ccc solid;
+}
+.toc #satabs a {
+border: 1px #ccc solid; text-decoration: none; padding: 4px; -moz-border-radius: 0.7em 0.7em 0 0;
+}
+.toc #satabs a:hover {
+background: #f7f7f7; border: 2px #ccc solid; padding: 3px;
+}
+.toc #sform {
+background: #eee; border: 1px solid #ccc; white-space: nowrap; padding: 4px; width: 90%;
+}
+.toc #footer {
+width: 90%;
+}
+.toc #footer #copy {
+float: left;
+}
+.toc #footer #copy a {
+font-size: x-small;
+}
+.toc #footer .rss {
+text-align: right; float: right;
+}
+.toc #hideImgs {
+display: none;
+}
+.toc #showImgs {
+display: none;
+}
+.toc .rss .l {
+font-weight: bold; background: orange; text-decoration: none; padding: 0px 2px; font-family: sans-serif; color: white;
+}
+.toc .rss .y {
+font-size: x-small;
+}
+.toc #floater {
+visibility: hidden; overflow: hidden; display: none; position: absolute; z-index: 999;
+}
+.toc #floater img {
+border: 2px solid #ccc;
+}
+.toc .row .ih {
+display: none;
+}
+.toc .row .i {
+background-position: center center; clear: both; background-repeat: no-repeat; background-image: url('http://emersonwww.craigslist.org/js/loader.js'); height: 52px; float: left; width: 60px;
+}
+.toc .row .i img {
+border: 0; height: 50px; width: 50px;
+}
+.toc span.p {
+font-size: smaller; color: orange;
+}
+.toc .row .c {
+clear: both;
+}
+#tsb {
+font-size: small; background: #ff9; margin-top: 1em; padding: 4px;
+}
+#tsb a {
+white-space: normal; font-style: italic;
+}
+#ef {
+float: right;
+}
+#flags {
+font-size: small; margin: 7px; background: white; border: 2px #ccc solid; padding: 7px; text-align: right; float: right;
+}
+#flags a.fl {
+padding-right: 8px; display: block;
+}
+#flags a.fl:visited {
+position: relative;
+}
+ul.blurbs {
+font-size: smaller; padding-left: 10px; margin-left: 0px;
+}
+#pp th {
+font-size: smaller;
+}
+#pp bc a {
+font-weight: bold; white-space: nowrap;
+}
+#pp span.imageLabel {
+font-size: smaller; font-family: sans-serif;
+}
+#pp #header {
+line-height: 1.5;
+}
+#pp span.std {
+font-weight: bold; font-size: small; color: black;
+}
+#pp span.req {
+font-weight: bold; color: green;
+}
+#pp span.err {
+font-weight: bold; color: red;
+}
+#pp blockquote#thanks {
+font-family: sans-serif;
+}
+#pp blockquote#thanks div {
+background: #eee; padding: 12px;
+}
+body.mceContentBody {
+font-size: inherit; font-family: inherit;
+}
+#imgtbl td.p {
+background: white; text-align: center; width: 300px;
+}
